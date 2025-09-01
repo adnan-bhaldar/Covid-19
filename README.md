@@ -5,7 +5,7 @@
 
   COVID-19 is a fully responsive Corona website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://adnan-bhaldar.github.io/covid-19/"><strong>➥ Live Demo</strong></a>
+  <a href="https://adnan-bhaldar.github.io/Covid-19/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
